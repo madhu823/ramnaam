@@ -109,7 +109,6 @@ h5 {
 }
 
 #RamNaam_Lekhan {
-  -webkit-writing-mode: horizontal-tb !important;
   text-rendering: auto;
   letter-spacing: normal;
   word-spacing: normal;
