@@ -10,8 +10,6 @@
   margin: 60px auto;
   padding: 20px;
   width: 60%;
-  height: 100rem;
-  
 }
 
 .container {
@@ -21,6 +19,7 @@
   grid-column-gap: 7rem;
   grid-row-gap: 1rem;
   grid-gap: 1rem;
+  
 }
 
 .container_1 {
@@ -31,7 +30,7 @@
   grid-row-gap: 1rem;
   grid-gap: 1rem;
   font-size: 23px;
-  height: 52rem;
+  height: 48rem;
 }
 
 .sub-container {
@@ -49,6 +48,13 @@
   padding: 4px 4px;
 }
 
+#Pri_title{
+  color: #f3ebde !important;
+  font-size: 18px;
+  padding: 3px;
+  text-align: center;
+  box-shadow: 0px 0px 24px 16px #ff605b;
+}
 .sub-containerforramnamadio {
   margin: auto;
 }
@@ -64,7 +70,8 @@
 
 hr.new1 {
   border-top: 2px solid rgb(243, 87, 87);
-  margin: 13px 0px;
+  margin: 13px auto;
+
 }
 
 .sub_container_1 {
@@ -134,8 +141,8 @@ h5 {
   grid-auto-columns: auto;
   resize: none;
   overflow: auto;
-  
-  
+  width: 800px;
+  height: 300px;   
 }
 
 .sub_container_3 {
