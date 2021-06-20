@@ -10,6 +10,7 @@
   margin: 60px auto;
   padding: 20px;
   width: 65rem;
+  z-index: -1;
 }
 
 .container {
@@ -143,7 +144,6 @@ h5 {
   overflow: auto;
   width: 800px;
   height: 300px;  
-  z-index: -1;
 }
 
 .sub_container_3 {
