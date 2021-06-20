@@ -21,7 +21,7 @@ body{
   background: url("../img/Main_Back_logo.jpg");
   position: relative;
   height: 100vh;
-  width: 100hw;
+  width: 100vw;
   z-index: -2;
   opacity: 1;
 }
